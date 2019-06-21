@@ -1,7 +1,7 @@
 {
-  "name": "angular-marked",
-  "version": "1.2.2",
-  "description": "AngularJS Markdown using marked.",
+  "name": "@kurkov87/angular-marked",
+  "version": "1.2.3",
+  "description": "AngularJS Markdown using marked. Updated 'marked' dependency",
   "main": "lib/angular-marked.js",
   "directories": {
     "test": "test"
@@ -37,13 +37,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Hypercubed/angular-marked.git"
+    "url": "git://github.com/IgorKurkov/angular-marked.git"
   },
   "keywords": [
     "marked",
     "markdown"
   ],
-  "author": "J. Harshbarger",
+  "author": "J. Harshbarger, Igor Kurkov",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Hypercubed/angular-marked/issues"
